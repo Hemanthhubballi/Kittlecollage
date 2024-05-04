@@ -1,0 +1,20 @@
+*
+{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section
+{
+    padding: 60px 0px;
+}
+.abt-img
+{
+    background: url("/Images/t3.jpg") no-repeat center ;
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+}
+.abt-content>p{
+    text-align: justify;
+}
